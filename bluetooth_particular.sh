@@ -1,6 +1,6 @@
 bluetoothctl power on
-bluetoothctl connect B4:9A:95:CF:06:53 &&
-	notify-send "Bluetooth" ". . : :  Realme Buds 2 Connected  : : . ." &&
+bluetoothctl connect 98:47:44:66:33:D0 &&
+	notify-send "Bluetooth" ". . : :  Realme Buds 3 Connected  : : . ." &&
 
 	# delete the lines with 'pactl'
 	#----------------------------------------------------------------------
